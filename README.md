@@ -29,11 +29,11 @@ Leveraging SQL and a well-structured Instagram-like schema, this project answers
 10. Stored procedure: total shares by post type (input: week number)
 
 ## SQL Solutions
-All SQL queries are provided in `task_2.sql`. Each query is thoroughly commented and grouped by business objective.
+All SQL queries are provided in `solution.sql`. Each query is thoroughly commented and grouped by business objective.
 
 ## How to Use
 - Clone this repository
-- Review `task_2.sql` for queries
+- Review `solution.sql` for queries
 - Use with your own or provided Instagram-like dataset
 - Customize the schema as needed
 
