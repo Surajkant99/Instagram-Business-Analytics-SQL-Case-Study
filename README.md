@@ -40,9 +40,10 @@ All SQL queries are provided in `task_2.sql`. Each query is thoroughly commented
 ## Presentation Materials
 - [Stakeholder Video Presentation](LINK_TO_VIDEO)
 
+## Contacts
+- [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
+- [Linkedin](https://www.linkedin.com/in/surajkant9/)
+- [Email](mailto:surajkant264@gmail.com)
+
 ## Experience & Learnings
 Working on this challenge deepened my SQL proficiency, especially aggregation, window functions, and procedure design. It enhanced my understanding of translating business needs into data solutions, and improved my storytelling for non-technical stakeholders.
-
-## License
-MIT License
-
