@@ -38,7 +38,7 @@ All SQL queries are provided in `solution.sql`. Each query is thoroughly comment
 - Customize the schema as needed
 
 ## Presentation Materials
-- [Stakeholder Video Presentation](LINK_TO_VIDEO)
+- [Stakeholder Video Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7368296030016061440/)
 
 ## Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
